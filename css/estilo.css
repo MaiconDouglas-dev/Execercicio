@@ -1,0 +1,38 @@
+body {
+	background: #ffe6e6 url('imagens/baby.png');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+.imagen-baby {
+	border: 10px solid #51ff00;
+}
+
+#menu {
+	background: #e690fc;
+	padding: 15px;
+}
+
+#conteudo {
+	background: #905cf1;
+	padding: 10px;
+}
+
+#rodape {
+	text-align: center;
+}
+
+.fundo-index {
+	border: 10px solid #ffe7de;
+}
+
+h1 {
+	color: #253683;
+	font-size: 1.2em;
+}
+
+a {
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
